@@ -7,9 +7,9 @@ void main() {
 //21
 
 //contoh const
-void main() {
-const umur = 21;
- print(umur);
-}
+// void main() {
+// const umur = 21;
+//  print(umur);
+// }
 //output
 //21
